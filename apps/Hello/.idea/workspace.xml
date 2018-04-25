@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d464abb-85dd-4569-9b5a-0da83310b253" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CloverPlugin" class="com.atlassian.clover.idea.config.IdeaCloverConfig">
+    <includePassedTestCoverageOnly>true</includePassedTestCoverageOnly>
+    <useGeneratedInitString>true</useGeneratedInitString>
+    <manualInitString null="true" />
+    <showTooltips>true</showTooltips>
+    <failedCoveredHighlight>-11513856</failedCoveredHighlight>
+    <periodicRefresh>false</periodicRefresh>
+    <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
+    <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">NONE</instrumentLambda>
+    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
+    <autoScrollFromSource>false</autoScrollFromSource>
+    <coveredHighlight>-16756736</coveredHighlight>
+    <outOfDateStripe>-256</outOfDateStripe>
+    <includes null="true" />
+    <excludes null="true" />
+    <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
+    <autoViewInCloudReport>true</autoViewInCloudReport>
+    <flushPolicy>0</flushPolicy>
+    <filteredHighlight>-11513776</filteredHighlight>
+    <outOfDateHighlight>-16777201</outOfDateHighlight>
+    <showInline>true</showInline>
+    <dumpInstrumentedSources>false</dumpInstrumentedSources>
+    <hideFullyCovered>false</hideFullyCovered>
+    <autoRefresh>true</autoRefresh>
+    <modelScope class="com.atlassian.clover.idea.util.ModelScope">APP_CLASSES_ONLY</modelScope>
+    <coveredStripe>-16711936</coveredStripe>
+    <highlightCovered>true</highlightCovered>
+    <viewCoverage>true</viewCoverage>
+    <notCoveredHighlight>-11534336</notCoveredHighlight>
+    <relativeInitString>false</relativeInitString>
+    <failedCoveredStripe>-14336</failedCoveredStripe>
+    <testViewScope class="com.atlassian.clover.idea.config.TestViewScope">GLOBAL</testViewScope>
+    <showGutter>true</showGutter>
+    <alwaysCollapseTestClasses>false</alwaysCollapseTestClasses>
+    <notCoveredStripe>-65536</notCoveredStripe>
+    <autoScroll>true</autoScroll>
+    <calculateTestCoverage>true</calculateTestCoverage>
+    <autoRefreshInterval>2000</autoRefreshInterval>
+    <generatedInitString>$PROJECT_DIR$/.clover/coverage.db</generatedInitString>
+    <regexpContexts class="java.util.ArrayList" />
+    <flushInterval>5000</flushInterval>
+    <flattenPackages>false</flattenPackages>
+    <viewIncludeAnnotation>true</viewIncludeAnnotation>
+    <loadPerTestData>true</loadPerTestData>
+    <showErrorMarks>true</showErrorMarks>
+    <buildWithClover>true</buildWithClover>
+    <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
+    <contextFilterSpec />
+    <instrumentTests>true</instrumentTests>
+    <span>0</span>
+    <projectRebuild class="com.atlassian.clover.idea.config.ProjectRebuild">ASK</projectRebuild>
+    <showSummaryInToolbar>true</showSummaryInToolbar>
+    <filteredStripe>-4144960</filteredStripe>
+    <cloudReportIncludeSubpkgs>false</cloudReportIncludeSubpkgs>
+    <enabled>false</enabled>
+    <showSummaryInToolwindow>true</showSummaryInToolwindow>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="65" column="35" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amit/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#555#563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloResponse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amit/model/HelloResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amit/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvocableHandlerMethod.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HelloController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amit/App.java" />
+        <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amit/model/HelloResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/amit/HelloController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Hello" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Hello" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
+    <option name="y" value="50" />
+    <option name="width" value="1280" />
+    <option name="height" value="699" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="main" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="main" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="java" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="main" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="java" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="amit" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="main" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="java" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="amit" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="model" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+            <path>
+              <item name="Hello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hello" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="src" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="main" type="bbb3b172:PsiDirectoryNodeWrapper" />
+              <item name="resources" type="bbb3b172:PsiDirectoryNodeWrapper" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.amit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Bash.run.sh">
+    <configuration name="Build Hello" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+                <option value="install" />
+                <option value="-DskipTests=true" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="debug hello" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="4444" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="4444" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration name="run.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.sh" />
+      <option name="PARAMETERS" value="" />
+      <module name="Hello" />
+      <envs />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Maven.Build Hello" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.debug hello" />
+      <item index="2" class="java.lang.String" itemvalue="Bash.run.sh" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Bash.run.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d464abb-85dd-4569-9b5a-0da83310b253" name="Default" comment="" />
+      <created>1506911009247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506911009247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="18" y="50" width="1280" height="699" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37417218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39900663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amit/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="65" column="35" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.10.RELEASE/spring-web-4.3.10.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amit/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amit/model/HelloResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
